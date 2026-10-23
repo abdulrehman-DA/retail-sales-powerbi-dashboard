@@ -8,7 +8,7 @@ A one-page, interactive Power BI dashboard built on a retail sales dataset that 
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
-*(Add your dashboard screenshot to the repo as `dashboard_screenshot.png`, or change the file name above to match.)*
+
 
 ## What the Dashboard Shows
 
